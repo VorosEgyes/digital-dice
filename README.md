@@ -11,9 +11,9 @@ This repository contains the Arduino code for a digital dice project using an AT
 
 ## Hardware Requirements
 - ATtiny13 microcontroller
-- LEDs (x4)
+- LEDs (x7)
 - Tactile pushbutton
-- 100 ohm Resistors for LEDs
+- 100 ohm Resistors (x7) for LEDs
 - 10K ohm Resistor for pullup reset
 - 2xAAA Power supply (2.4-3V)
 - (Optional) USBASP Programmer for ATtiny13
